@@ -1,0 +1,29 @@
+/* Sección Sobre Nosotros */
+#sobre {
+    padding: 40px 20px;
+    text-align: center;
+    background-color: #f9f9f9;
+  }
+  
+  #sobre h2 {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  #sobre p {
+    font-size: 1.1em;
+    color: #555;
+    max-width: 800px;
+    margin: 0 auto 20px auto;
+    line-height: 1.6;
+  }
+  
+  #sobre img {
+    width: 1000px;
+    height: 700px;
+    border-radius: 60px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+  }
+  
